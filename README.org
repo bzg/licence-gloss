@@ -32,6 +32,10 @@ Cette demande ne remet pas en cause le fait qu'en raison de leurs
 prérogatives de puissance publique, les administrations puissent
 utiliser des logiciels libres sans contribuer en retour.
 
+[[file:image.png]]
+
+[[file:Licence-GLOSS-v1.0_revStagiaire-OK_1.52--done.PPTX][Télécharger le PPTX]].
+
 ** Les grandes lignes
 
 - Licence GLOSS 💄 :: GLOSS signifie /Great Libre Open Source Software/.
@@ -67,6 +71,10 @@ restriction de réutilisation.
 
 Vos contributions sont les bienvenues, sous forme d'/issues/, de /pull
 requests/ ou de courriel à =bzg@bzg.fr=.
+
+** L'annonce
+
+Voir [[https://twitter.com/bzg2/status/1377545351075348481][le tweet]] et [[https://mastodon.etalab.gouv.fr/web/statuses/105989221259348029][le pouet]]. 
 
 ** Droits d'auteur
 
