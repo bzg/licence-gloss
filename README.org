@@ -28,6 +28,10 @@ codes ouverts seront utiles à l'administration sans tomber dans les
 mains de réutilisateurs de la société civile : ceux-ci sont souvent
 dans une pure logique de consommation sans contribuer en retour.
 
+[[file:image.png]]
+
+[[file:Licence-GLOSS-v1.0_revStagiaire-OK_1.52--done.PPTX][Télécharger le PPTX]].
+
 ** Les grandes lignes
 
 - Licence GLOSS 💄 :: GLOSS signifie /Great Libre Open Source Software/.
