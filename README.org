@@ -59,6 +59,11 @@ nous n'avons pas de calendrier pour réviser ce décret.  Mais le site
 souverains, devant les codes sources simplement livrés au public sans
 restriction de réutilisation.
 
+** Contributions
+
+Vos contributions sont les bienvenues, sous forme d'/issues/, de /pull
+requests/ ou de courriel à =bzg@bzg.fr=.
+
 ** Droits d'auteur
 
 Ce document est publié sous [[LICENSE.md][licence Ouverte 2.0]].
