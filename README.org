@@ -73,7 +73,7 @@ restriction de réutilisation.
 Vos contributions sont les bienvenues, sous forme d'/issues/, de /pull
 requests/ ou de courriel à =bzg@bzg.fr=.
 
-** L'annonce
+** L'annonce 🐟
 
 Voir [[https://twitter.com/bzg2/status/1377545351075348481][le tweet]] et [[https://mastodon.etalab.gouv.fr/web/statuses/105989221259348029][le pouet]]. 
 
