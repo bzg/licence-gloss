@@ -2,7 +2,7 @@
 
 Etalab travaille actuellement sur un projet de *nouvelle licence libre*
 qui permettrait aux administrations de publier des codes sources qui
-seraient *facilement réutilisables par d'autres oragnismes publics* mais
+seraient *facilement réutilisables par d'autres organismes publics* mais
 que des acteurs privés (entreprises, associations, individus) ne
 pourront pas utiliser, sauf rares exceptions.
 
