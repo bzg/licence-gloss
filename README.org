@@ -30,16 +30,16 @@ dans une pure logique de consommation sans contribuer en retour.
 
 ** Les grandes lignes
 
-- Licence GLOSS :: GLOSS signifie /Great Libre Open Source Software/.
+- Licence GLOSS 💄 :: GLOSS signifie /Great Libre Open Source Software/.
   L'idée est d'éviter le mot /free/ dont l'ambiguïté grève les échanges
   dans le monde du logiciel libre depuis trop longtemps.
 
-- Licence bilingue :: les licences [[http://cecill.info/][CeCILL]] avaient pour but de proposer
+- Licence bilingue :: Les licences [[http://cecill.info/][CeCILL]] avaient pour but de proposer
   des licences rédigées en français, ce que fait aussi l'[[https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12][EUPL]].  Nous
   visons une licence bilingue français-anglais, sur le modèle de la
   licence Ouverte 2.0.
 
-- Clause de réciprocité forte :: en nous inspirant des licences
+- Clause de réciprocité forte :: En nous inspirant des licences
   [[https://commonsclause.com/][Commons Clause]], [[https://en.wikipedia.org/wiki/Server_Side_Public_License][Server Side Public License]] et de la démarche des
   [[https://ethicalsource.dev/licenses/][licences éthiques]], nous souhaitons que seules les administrations
   aient le droit d'utiliser les codes sources qui sont publiés, si
