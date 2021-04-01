@@ -31,8 +31,8 @@ dans une pure logique de consommation sans contribuer en retour.
 ** Les grandes lignes
 
 - Licence GLOSS :: GLOSS signifie /Great Libre Open Source Software/.
-  L'idée est d'éviter le mot /free/ dont l'ambiguîté grève les échanges
-  depuis toujours.
+  L'idée est d'éviter le mot /free/ dont l'ambiguïté grève les échanges
+  dans le monde du logiciel libre depuis trop longtemps.
 
 - Licence bilingue :: les licences [[http://cecill.info/][CeCILL]] avaient pour but de proposer
   des licences rédigées en français, ce que fait aussi l'[[https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12][EUPL]].  Nous
