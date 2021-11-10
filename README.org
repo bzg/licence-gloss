@@ -1,37 +1,23 @@
-** Le projet
+** L'idée
 
-Etalab travaille actuellement sur un projet de *nouvelle licence libre*
-qui permettrait aux administrations de publier des codes sources qui
+*Les idées présentées ci-dessous sont une spéculation personnelle.*
+
+Doit-on permettre aux administrations de publier des codes sources qui
 seraient *facilement réutilisables par d'autres organismes publics* mais
 que des acteurs privés (entreprises, associations, individus) ne
-pourront pas utiliser, sauf rares exceptions.
-
-Ce dépôt permet de collecter les points de vue en attendant qu'une
-réunion en présentiel permette de faire converger les besoins et la
-solution, sur le modèle de ce qui a été fait avec succès pour la
-[[https://www.etalab.gouv.fr/licence-ouverte-open-licence][licence Ouverte 2.0]].
+pourraient pas érutiliser, sauf rares exceptions ?
 
 ** Argumentaire
 
-Depuis deux ans qu'Etalab aide les administrations à ouvrir leurs
-codes sources, nous avons constaté que l'obstacle principal n'est pas
-celui de la sécurité ou de pratiques de développement non adaptées :
-en général, les équipes utilisent déjà Git et la sécurité est pensée
-dès le premier commit, rendant les ouvertures réatroactives tout à
-fait envisageables.
+Les obstacles pour l'ouverture des codes sources du secteur public ne
+sont pas forcément liés à des questions de sécurité ou à des pratiques
+de développement datées.  Une demande des administrations est parfois
+de s'assurer que les codes sources publiés seront d'abord utiles aux
+autres administrations sans être exploités par des acteurs de la
+société civile qui pourraient ensuite lui faire concurrence.
 
-Nous avons aussi constaté que les dispositifs pédagogiques incitatifs
-(comme ce [[https://guide-juridique-logiciel-libre.etalab.gouv.fr/][guide interactif]] ou cet autre [[https://guides.etalab.gouv.fr/logiciels/][statique]]) ne suffisent pas.
-
-La demande principale des administrations est de s'assurer que les
-codes ouverts seront utiles à l'administration sans tomber dans les
-mains de réutilisateurs de la société civile : ceux-ci sont souvent
-dans une pure logique de consommation sans contribuer en retour.
-
-Cette demande ne remet pas en cause le principe suivant lequel, du
-fait de leurs prérogatives de puissance publique, les
-administrations puissent utiliser des logiciels libres sans
-contribuer en retour.
+D'où l'idée d'une licence inspirée des licences non libres qu'on a pu
+voir émerger dans le secteur privé.
 
 [[file:image.png]]
 
@@ -40,42 +26,28 @@ contribuer en retour.
 ** Les grandes lignes
 
 - Licence GLOSS 💄 :: GLOSS signifie /Great Libre Open Source Software/.
-  L'idée est d'éviter le mot /free/ dont l'ambiguïté grève les échanges
-  dans le monde du logiciel libre depuis trop longtemps.
 
 - Licence bilingue :: Les licences [[http://cecill.info/][CeCILL]] avaient pour but de proposer
   des licences rédigées en français, ce que fait aussi l'[[https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12][EUPL]].  Nous
-  visons une licence bilingue français-anglais, sur le modèle de la
-  licence Ouverte 2.0.
+  pourrions viser une licence bilingue français-anglais, sur le modèle
+  de la licence Ouverte 2.0.
 
 - Clause de réciprocité forte :: En nous inspirant des licences
-  [[https://commonsclause.com/][Commons Clause]], [[https://en.wikipedia.org/wiki/Server_Side_Public_License][Server Side Public License]] et de la démarche des
-  [[https://ethicalsource.dev/licenses/][licences éthiques]], nous souhaitons que seules les administrations
-  aient le droit d'utiliser les codes sources qui sont publiés, si
-  elles s'engagent en retour à mobiliser des moyens humains et/ou
+  [[https://commonsclause.com/][Commons Clause]], [[https://en.wikipedia.org/wiki/Server_Side_Public_License][Server Side Public License]], [[https://wiki.coopcycle.org/en:license][Coopcyle]] et en général
+  de la démarche des [[https://ethicalsource.dev/licenses/][licences éthiques]], nous souhaitons que seules les
+  administrations aient le droit d'utiliser les codes sources publiés,
+  si elles s'engagent en retour à mobiliser des moyens humains et/ou
   financiers pour contribuer à la feuille de route et/ou au code des
   projets qui utiliseront cette licence.
 
 - Compatibilité :: Nous aurons besoin de l'aide de tout l'écosystème,
-  notamment juridique, pour résoudre les enjeux de compatibilité.
-
-** Transition
-
-Bien sûr, le décret en vigueur sur les [[https://www.data.gouv.fr/fr/licences][licences utilisables]] pour les
-codes sources du secteur public est toujours juridiquement valable, et
-nous n'avons pas de calendrier pour réviser ce décret.  Mais le site
-[[https://code.etalab.gouv.fr][code.etalab.gouv.fr]] pourra aider à mettre en avant les codes sources
-souverains, devant les codes sources simplement livrés au public sans
-restriction de réutilisation.
+  notamment juridique, pour résoudre les enjeux de compatibilité avec
+  d'autres licences.
 
 ** Contributions
 
 Vos contributions sont les bienvenues, sous forme d'/issues/, de /pull
 requests/ ou de courriel à =bzg@bzg.fr=.
-
-** L'annonce 🐟
-
-Voir [[https://twitter.com/bzg2/status/1377545351075348481][le tweet]] et [[https://mastodon.etalab.gouv.fr/web/statuses/105989221259348029][le pouet]]. 
 
 ** Droits d'auteur
 
